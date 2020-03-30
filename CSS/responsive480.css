@@ -1,0 +1,241 @@
+/*FIRST PAGE*/
+
+@media (max-width: 480px) {
+	.mountain-bg {
+		height: 225px;
+	}
+}
+@media (max-width: 480px) {
+	.navigation-ul {
+		margin-right: 35.5px;
+	}
+}
+@media (max-width: 480px) {
+	.Landings {
+		font-size: 15px;
+		margin-top: 17px;
+		margin-left: 17px;
+	}
+}
+@media (max-width: 480px) {
+	.navigation-li {
+	margin-left: 8px;
+	font-size: 10px;
+	margin-top: 17px;
+	}
+}
+@media (max-width: 480px) {
+	.Firstcenterbig {
+	font-size: 30px;
+	margin-top: 25px;;
+	}
+}
+@media (max-width: 480px) {
+	.Firstcentersmall {
+		font-size: 14px;
+		padding: 16px;
+	}
+}
+@media (max-width: 480px) {
+	.button2 {
+	font-family: 'Lato';
+	margin-top: 5px;
+	font-size: 9px;
+	padding: 10px;
+	letter-spacing: 0.5px;
+
+	}
+}
+
+
+
+/*SECTION 2*/
+@media (max-width: 480px) {
+	.section2-flex {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;;
+	}
+}
+
+@media (max-width: 480px) {
+	.LeftBlock2 {
+		padding: 25px;
+	}
+}
+@media (max-width: 480px) {
+	.LeftBlock2p1 {
+		font-size: 22px;
+	}
+}
+@media (max-width: 480px) {
+	.LeftBlock2p2 {
+		font-size: 12px;
+		margin-top: 25px;
+	}
+}
+@media (max-width: 480px) {
+	.RightBlock2 {
+		width: 50%;
+	}
+}
+@media (max-width: 480px) {
+	.buttonleft {
+		margin-top: 13.5px;
+		padding: 5px;
+		font-size: 9px;
+		letter-spacing: 0.5px;
+	}
+}
+
+/*SixIconsSection*/
+@media (max-width: 480px) {
+	.SixIconsSection {
+		padding: 22.5px;
+	}
+}@media (max-width: 480px) {
+	.HeaderSixIconsSection {
+		font-size: 22px;
+	}
+}@media (max-width: 480px) {
+	.HeaderSixIconsSectionP {
+		font-size: 14px;
+		margin-top: 12.5px
+		margin-bottom: 23.5px;
+	}
+}
+
+@media (max-width: 480px) {
+	.boxes1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	}
+}
+/*@media (max-width: 480px) {
+	.smallbox {
+	margin-top: 6.25px;
+	background-color: white;
+	width: 92.25px;
+	height: 93px;
+	}
+}
+@media (max-width: 480px) {
+	.icon {
+		padding: 7.5px;
+		margin-bottom: 7.5px;
+	}
+}
+@media (max-width: 480px) {
+	.smallbox h5 {
+		font-size: 4.5px;
+	}
+}
+@media (max-width: 480px) {
+	.smallbox p {
+		font-size: 4px;
+}*/
+
+/*Section3Sea*/
+
+@media (max-width: 480px) {
+	.Section3Sea {
+		height: 150.25px;
+	}
+}
+@media (max-width: 480px) {
+	.Section3H {
+		padding-top: 45px;
+		font-size: 22px;
+	}
+}
+@media (max-width: 480px) {
+	.Section3P {
+		padding: 8.75px 50px;
+		font-size: 12px;
+	}
+}
+
+
+
+/*Section 4*/
+
+@media (max-width: 480px) {
+	.FeaturedProjects {
+	height: 62.5px;
+	}
+}
+@media (max-width: 480px) {
+	.Section4H {
+		font-size: 22px;
+		margin-top: 23.75px;
+		margin-bottom: 7.5px;
+	}
+}
+@media (max-width: 480px) {
+	.Section4P {
+		font-size: 11px;
+		padding-right: 37.5px;
+		padding-left: 37.5px;	
+		margin-bottom: 23.75px;
+	}
+}
+
+
+
+
+
+
+
+
+@media (max-width: 480px) {
+	.RightBlockFlower {
+		padding: 25.5px;
+	}
+}
+@media (max-width: 480px) {
+	.RightBlockFlowerP1 {
+		font-size: 22px;
+	}
+}
+@media (max-width: 480px) {
+	.RightBlockFlowerP2 {
+		margin-top: 12.5px;
+		font-size: 12px;
+		margin-top: 25px;
+	}
+}
+@media (max-width: 480px) {
+	.buttonflower {
+		margin-top: 13.5px;
+		padding: 5px;
+		font-size: 9px;
+		letter-spacing: 0.5px;
+	}
+}
+
+@media (max-width: 480px) {
+	.LeftBlockFlower {
+		width: 50%;
+	}
+}
+
+/*FOOTER*/
+@media (max-width: 480px) {
+	.FooterSection {
+		height: 55px;
+	}
+}
+@media (max-width: 480px) {
+	.FooterSection p {
+		padding-top: 25px;
+	}
+}
+@media (max-width: 480px) {
+	.google {
+		font-size: 15px;
+	}
+}
+

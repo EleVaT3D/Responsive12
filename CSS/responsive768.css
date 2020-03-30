@@ -1,0 +1,239 @@
+/*FIRST PAGE*/
+
+@media (max-width: 768px) {
+	.mountain-bg {
+		height: 450px;
+	}
+}
+@media (max-width: 768px) {
+	.navigation-ul {
+		margin-right: 71px;
+		margin-left: 150px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+	}
+}
+@media (max-width: 768px) {
+	.Landings {
+		font-size: 22px;
+		margin-top: 34px;
+		margin-left: 34px;
+	}
+}
+@media (max-width: 768px) {
+	.navigation-li {
+	margin-left: 16px;
+	font-size: 12px;
+	margin-top: 34px;
+	flex-wrap: wrap;
+
+	}
+}
+@media (max-width: 768px) {
+	.Firstcenterbig {
+	font-size: 70px;
+	margin-top: 80px;;
+	}
+}
+@media (max-width: 768px) {
+	.Firstcentersmall {
+		font-size: 14px;
+		padding: 25px;
+	}
+}
+@media (max-width: 768px) {
+	.button2 {
+	font-family: 'Lato';
+	margin-top: 18px;
+	font-size: 11px;
+	padding: 10px;
+	letter-spacing: 1px;
+
+	}
+}
+
+
+
+/*SECTION 2*/
+
+@media (max-width: 768px) {
+	.LeftBlock2 {
+		padding: 50px;
+	}
+}
+@media (max-width: 768px) {
+	.LeftBlock2p1 {
+		font-size: 40px;
+	}
+}
+@media (max-width: 768px) {
+	.LeftBlock2p2 {
+		font-size: 16px;
+		margin-top: 50px;
+	}
+}
+@media (max-width: 768px) {
+	.RightBlock2 {
+		width: 50%;
+	}
+}
+@media (max-width: 768px) {
+	.buttonleft {
+		margin-top: 27px;
+		padding: 10px;
+		font-size: 11px;
+		letter-spacing: 1px;
+	}
+}
+
+/*SixIconsSection*/
+@media (max-width: 768px) {
+	.SixIconsSection {
+		padding: 45px;
+	}
+}@media (max-width: 768px) {
+	.HeaderSixIconsSection {
+/*		font-size: 17px;*/
+	}
+}@media (max-width: 768px) {
+	.HeaderSixIconsSectionP {
+/*		font-size: 8px;*/
+		margin-top: 25px
+		margin-bottom: 47px;
+	}
+}
+@media (max-width: 768px) {
+	.boxes1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	}
+}
+/*@media (max-width: 768px) {
+	.smallbox {
+	margin-top: 25px;
+	background-color: white;
+	width: 369px;
+	height: 372px;
+	}
+}*/
+/*@media (max-width: 768px) {
+	.icon {
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+}
+@media (max-width: 768px) {
+	.smallbox h5 {
+		font-size: 9px;
+	}
+}
+@media (max-width: 768px) {
+	.smallbox p {
+		font-size: 8px;
+}*/
+
+/*Section3Sea*/
+
+@media (max-width: 768px) {
+	.Section3Sea {
+		height: 300.5px;
+	}
+}
+@media (max-width: 768px) {
+	.Section3H {
+		padding-top: 110px;
+/*		font-size: 17.5px;*/
+	}
+}
+@media (max-width: 768px) {
+	.Section3P {
+		padding: 25px 150px;
+/*		font-size: 9px;*/
+	}
+}
+
+
+
+/*Section 4*/
+
+@media (max-width: 768px) {
+	.FeaturedProjects {
+	height: 125px;
+	}
+}
+@media (max-width: 768px) {
+	.Section4H {
+		font-size: 30px;
+		margin-top: 47.5px;
+		margin-bottom: 15px;
+	}
+}
+@media (max-width: 768px) {
+	.Section4P {
+		font-size: 14px;
+		padding-right: 75px;
+		padding-left: 75px;	
+		margin-bottom: 47.5px;
+	}
+}
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+	.RightBlockFlower {
+		padding: 51px;
+	}
+}
+@media (max-width: 768px) {
+	.RightBlockFlowerP1 {
+		font-size: 40px;
+	}
+}
+@media (max-width: 768px) {
+	.RightBlockFlowerP2 {
+		margin-top: 25px;
+		font-size: 16px;
+		margin-top: 50px;
+	}
+}
+@media (max-width: 768px) {
+	.buttonflower {
+		margin-top: 27px;
+		padding: 10px;
+		font-size: 12px;
+		letter-spacing: 1px;
+	}
+}
+
+@media (max-width: 768px) {
+	.LeftBlockFlower {
+		width: 50%;
+	}
+}
+
+/*FOOTER*/
+@media (max-width: 768px) {
+	.FooterSection {
+		height: 100px;
+	}
+}
+@media (max-width: 768px) {
+	.FooterSection p {
+		font-size: 12px;
+		padding-top: 40px;
+	}
+}
+@media (max-width: 768px) {
+	.google {
+		font-size: 35px;
+	}
+}
